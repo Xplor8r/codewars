@@ -5,7 +5,7 @@
 
 // n being the length of the string array, if n = 0 or k > n or k <= 0 return "".
 
-// Note
+// Note:
 // consecutive strings : follow one after another without an interruption
 
 function longestConsec(strarr, k) {
